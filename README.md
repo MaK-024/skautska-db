@@ -3,6 +3,11 @@
 Databáze se 3 entitními a 2 vztahovými typy byla vytvořena v MySQL Workbench.
 
 
+## Odkaz na GitHub
+
+[Skautská databáze](URL adresahttps://github.com/MaK-024/skautska-db)
+
+
 ## Slovní popis
 
 Databáze slouží k evidenci členů fiktivního skautského oddílu. Eviduje vedoucí, družiny a skauty. Každá družina je vedena jedním vedoucím a obsahuje více skautů. Každý skaut je zařazen právě do jedné družiny. Databáze umožňuje přehledně evidovat složení družin a jejich vedení.
@@ -36,6 +41,7 @@ Databáze slouží k evidenci členů fiktivního skautského oddílu. Eviduje v
 | prezdivka | VARCHAR(45) | |
 | vek | INT | |
 | druzina_id_druzina | INT | FK |
+
 
 ## Demo data
 
@@ -83,6 +89,8 @@ Databáze slouží k evidenci členů fiktivního skautského oddílu. Eviduje v
 
 Databáze umožňuje evidenci vedoucích, družin a skautů v rámci skautského oddílu. Návrh obsahuje tři entitní typy a dva vztahové typy. Struktura databáze byla navržena v aplikaci MySQL Workbench a doplněna ukázkovými daty.
 
+
 ## Autor
 
 Martin Kriššák, V2I, 2026
+
