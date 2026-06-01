@@ -79,6 +79,10 @@ Databáze slouží k evidenci členů fiktivního skautského oddílu. Eviduje v
 | 18 | Kýbl | 14 | 3 |
 
 
+## Závěr
+
+Databáze umožňuje evidenci vedoucích, družin a skautů v rámci skautského oddílu. Návrh obsahuje tři entitní typy a dva vztahové typy. Struktura databáze byla navržena v aplikaci MySQL Workbench a doplněna ukázkovými daty.
+
 ## Autor
 
 Martin Kriššák, V2I, 2026
