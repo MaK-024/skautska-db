@@ -15,14 +15,14 @@ Databáze slouží k evidenci členů fiktivního skautského oddílu. Eviduje v
 
 ## Relační model databáze
 
-### Tabulka Vedouci
+### Tabulka Vedoucí
 | Atribut | Datový typ | Klíč |
 |----------|----------|----------|
 | id_vedouci | INT | PK |
 | prezdivka | VARCHAR(45) | |
 | kvalifikace | VARCHAR(45) | |
 
-### Tabulka Druzina
+### Tabulka Družina
 | Atribut | Datový typ | Klíč |
 |----------|----------|----------|
 | id_druzina | INT | PK |
