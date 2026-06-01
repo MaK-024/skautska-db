@@ -5,7 +5,7 @@ Databáze se 3 entitními a 2 vztahovými typy byla vytvořena v MySQL Workbench
 
 ## Odkaz na GitHub
 
-[Skautská databáze](URL adresahttps://github.com/MaK-024/skautska-db)
+[github.com/MaK-024/skautska-db](https://github.com/MaK-024/skautska-db)
 
 
 ## Slovní popis
